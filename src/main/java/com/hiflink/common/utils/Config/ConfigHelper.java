@@ -1,5 +1,6 @@
-package com.hiflink.common.utils.resources.impl;
+package com.hiflink.common.utils.Config;
 
+import com.hiflink.common.utils.resources.impl.ResourceManager;
 import com.typesafe.config.*;
 
 import java.io.IOException;
